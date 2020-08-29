@@ -1,0 +1,44 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+}
+.main{
+    margin-top: 50px;
+}
+.btn-primary{
+    width: 100%;
+    background-color: red;
+}
+.card{
+    margin-bottom: 5px;
+    width: 250px;
+  
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 4px 2px black;
+    color: red;
+
+}
+.as{
+    padding: 80px;
+    justify-content: center;
+    text-align: center;
+}
+.ab{
+    color: black;
+}
+.fa-copyright{
+      font-weight: bold !important;
+}
+.imp{
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    height: 70px;
+    font-size: 20px;
+}
